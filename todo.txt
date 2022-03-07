@@ -1,0 +1,10 @@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! IT'S DONE !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Create a new git repository from VS Code Terminal:
+
+step-1: git init
+step-2: git add .
+step-3: git commit -m "first commit"
+step-4: git branch -M main
+step-5: Click the VS Code "synchronize changes" button, right side of the "master"/"main" branch button(left-down corner of the VS Code))
+step-6: Then here you can change the repository name and choose one option from the below two, private or public.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! IT'S DONE !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
